@@ -49,7 +49,7 @@ A multi-line JSON dataset used to demonstrate JSON data ingestion with `multiLin
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 ### 1. Data Reading
 
