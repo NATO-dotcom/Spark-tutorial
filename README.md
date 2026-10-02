@@ -1,10 +1,10 @@
-# 🚀 PySpark Tutorial — Comprehensive Reference Guide
+# PySpark Tutorial — Comprehensive Reference Guide
 
 A hands-on PySpark tutorial built on **Databricks**, covering data reading, transformations, aggregations, joins, window functions, UDFs, data writing, and Spark SQL — all demonstrated against real-world datasets.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Spark_tutorial/
@@ -22,7 +22,7 @@ Spark_tutorial/
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 ### BigMart Sales (`BigMart Sales.csv`)
 
